@@ -2,6 +2,10 @@
 
 This Project is made with HTML5, CSS3, ReactJS, Axios, Web 3.0 Technologies, and OpenSea API.
 
+
+![alt text](https://raw.githubusercontent.com/Shobhit1338/react-abstract-nft-collection/NFT/public/ss-new.png)
+
+
 # Abstract Collections - An NFT Collection
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
